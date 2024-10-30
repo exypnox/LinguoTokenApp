@@ -8,3 +8,4 @@ Sphinx~=5.0.2
 httpx~=0.23.0
 gql[aiohttp]~=3.5.0
 async-lru~=1.0.3
+nest-asyncio
